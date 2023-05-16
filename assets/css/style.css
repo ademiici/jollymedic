@@ -1,0 +1,12 @@
+#banner #ok .row .img-cont img{
+    height: 80vh;
+    
+}
+ /* #latest .container .intro{
+    text-decoration: overline;
+}  */
+
+#services .card img{
+    width: 27% !important;
+    /* height: 23vh; */
+}
